@@ -19,3 +19,4 @@ A sleek, browser-based quiz application built with HTML, CSS, and vanilla JavaSc
 
 ## Screenshots
 ![image alt](https://github.com/Hariprasanth2/Quiz-app/blob/18ee95e43bdea862f92d5f78dd74fd9ad04aa7dd/Screenshot%20%20(1).png)
+![image alt](https://github.com/Hariprasanth2/Quiz-app/blob/2c15d5a06c4872f5ee81d604020abc506755988f/Screenshot%20%20(2).png)
