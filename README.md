@@ -16,3 +16,6 @@ A sleek, browser-based quiz application built with HTML, CSS, and vanilla JavaSc
 - **HTML5** – for semantic structure
 - **CSS3** – for elegant, responsive styling
 - **JavaScript (ES6)** – for dynamic interaction and logic handling
+
+Output 
+![image alt](https://github.com/Hariprasanth2/Quiz-app/blob/18ee95e43bdea862f92d5f78dd74fd9ad04aa7dd/Screenshot%20%20(1).png)
